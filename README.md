@@ -36,23 +36,14 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on Java Devloper  
-  
 
 - 🌱 I’m currently learning SpringCloud and Kubernetes  
-  
-
-- ❓ Ask me about anything related to Java stack and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+- ❓ Ask me about anything related to Java stack and related technologies  
 
+- ⚡ Fun fact: I keep night shift swithed on at all times    
 
 </td></tr></table>  
 
